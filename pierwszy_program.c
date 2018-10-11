@@ -2,5 +2,5 @@
 
 void main(void){
 
-	puts("hello world");
+	puts("Ala ma kota\nkot ma Ale");
 }
